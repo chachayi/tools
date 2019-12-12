@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<path>
+    <srcPath>源文件位置</srcPath>
+    <targetPath>文件输出位置</targetPath>
+</path>
